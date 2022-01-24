@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6749aa4e-f3ec-4b85-9471-2c4650a5ed07": {
+      "ProjectGuid": "6749aa4e-f3ec-4b85-9471-2c4650a5ed07",
+      "DisplayName": "WorkerService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
